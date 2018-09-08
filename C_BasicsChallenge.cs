@@ -13,7 +13,7 @@ namespace ConsoleApp1
 			const byte sample1 = 0x3A;
 			const float acceleration = 9.800f;
 			const char integral = '\u222B';
-			float mass = 14.9f;
+			float mass = 14.6f;
 			byte sample2 = 58;
 			string greetings, name;
 			greetings = "Hello";
